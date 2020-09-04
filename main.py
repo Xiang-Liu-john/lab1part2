@@ -1,3 +1,7 @@
+#Author: Xiang Liu xfl5249@psu.edu
+#Collaborator: Kacey Lo kll5550@psu.edu
+#Collaborator: Sebastian Traconis spr5501@psu.edu
+
 temperature = input("Enter temperature: ")
 unit = input("Enter unit in F/f or C/c: ")
 if unit == "F" or unit == "f":
